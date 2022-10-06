@@ -1,6 +1,1 @@
-Python Encyclopedia
-Total Python written by user.
-Python Version used is 3.10.7
-Python Compiler used is Pep 8.
-Python User Author is Afolabi Oluwaseun
-Written codes to succession done. @seun01's Holopin board
+This repository contains codes written for the higher level programming languages at the ALX Software engineering course in conjunction with Holberton school of computer science. In these projects, i have learnt the Python programming language, and i have used skills acquired to solving numerous tasks which have been duly documented in this repo. simultaenously, I continued to expand my skills inC programming language and shell scripting, while advancing my knowledge of Data Structures and Algorithm. This repo could serve as a source of learning material for aspiring Software engineer.

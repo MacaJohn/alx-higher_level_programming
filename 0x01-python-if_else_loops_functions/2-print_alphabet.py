@@ -1,3 +1,6 @@
 #!/usr/bin/python3
-for char in range(ord("a"), ord("z") + 1):
-    print("{:c}".format(char), end='')
+"""
+Print the ASCII alphabet in lowercase, not followed by a new line.
+"""
+for letter in range(97, 123):
+    print("{}".format(chr(letter)), end="")

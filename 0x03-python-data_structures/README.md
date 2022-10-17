@@ -1,23 +1,38 @@
-# Datat Structures: Lists and Tuples
-
-## Description
-This directory contains tasks to familiarise us with python data structures.
-Lists: The most popular structures in python implemented as C dynamic arrays
-Tuple: an immutable structure
-
-## Tasks
-* [0-print_list_integer.py](0-print_list_integer.py)
-* [1-element_at.py](1-element_at.py)
-* [2-replace_in_list.py](2-replace_in_list.py)
-* [3-print_reversed_list_integer.py](3-print_reversed_list_integer.py)
-* [4-new_in_list.py](4-new_in_list.py)
-* [5-no_c.py](5-no_c.py)
-* [6-print_matrix_integer.py](6-print_matrix_integer.py)
-* [7-add_tuple.py](7-add_tuple.py)
-* [8-multiple_returns.py](8-multiple_returns.py)
-* [9-max_integer.py](9-max_integer.py)
-* [10-divisible_by_2.py](10-divisible_by_2.py)
-* [11-delete_at.py](11-delete_at.py)
-* [12-switch.py](12-switch.py)
-* [13-is_palindrome.c](13-is_palindrome.c)
-* [100-print_python_list_info.c](100-print_python_list_info.c)
+# 0x03. Python - Data Structures: Lists, Tuples
+---
+### Python ###
+---
+## **Tasks** ## 
+---
+<ul style="list-style-type: disc">
+<li> 0. <em>  <strong> Print a list of integer </strong> </em> </li>
+---
+<li> 1. <em>  <strong> Secure access to an element in a list</em> </li>
+---
+<li> 2. <em>  <strong> Replace element</strong> </em> </li>
+---
+<li> 3. <em>  <strong> Print a list of integers... in reverse!</strong></em> </li>
+---
+<li> 4. <em>  <strong> Replace in a copy</strong> </em> </li>
+---
+<li> 5. <em>  <strong> Can you C me now?</strong> </em> </li>
+---
+<li> 6. <em>  <strong> Lists of lists = Matrix</strong> </em> </li>
+---
+<li> 7. <em>  <strong> Tuples addition</strong> </em> </li>
+---
+<li> 8. <em>  <strong> More returns!</strong> </em> </li>
+---
+<li> 9. <em>  <strong> Find the max</strong> </em> </li>
+---
+<li> 10. <em> <strong> Only by 2</strong> </em> </li>
+---
+<li> 11. <em> <strong> Delete at</strong> </em> </li>
+---
+<li> 12. <em> <strong> Switch</strong> </em> </li>
+---
+<li> 13. <em> <strong> Linked list palindrome </strong> </em> </li>
+---
+<li> 14. <em> <strong> CPython #0: Python lists </strong> </em> </li>
+---
+ </ul>
